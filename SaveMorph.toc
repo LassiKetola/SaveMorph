@@ -1,0 +1,14 @@
+## Interface: 30403
+## Version: 0.3.5
+## Title: SaveMorph
+## Notes: SaveMorph
+## Author: LassiKetola
+## X-Min-Interface-Classic: 11304
+## X-Min-Interface-BCC: 20504
+## X-Min-Interface-Wrath: 30403
+##SavedVariablesPerCharacter: SavedMorphs
+
+Util.lua
+Inventory.lua
+Profiles.lua
+DressingRoom.lua
