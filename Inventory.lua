@@ -17,7 +17,7 @@ SM_RootFrame:SetScript("OnEvent", function(self, event, addon)
   end
 end)
 
---SM_RootFrame:Hide()
+SM_RootFrame:Hide()
 
 local SM_AppTitle = CreateFrame("Frame", "SM_AppTitle", SM_RootFrame, "BackdropTemplate")
 SM_AppTitle:SetBackdrop({ bgFile = "Interface/Tooltips/UI-Tooltip-Background" })
